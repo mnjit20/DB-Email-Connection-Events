@@ -264,5 +264,75 @@
     "event": "setValue",
     "path": "connections[0].formData.sid",
     "value": ""
+  },
+  {
+    "event": "appendValue",
+    "path": "connections",
+    "connectionId": "1733769323048",
+    "value": {
+      "id": "1733769323048",
+      "connectionType": "db",
+      "selectedType": "mysql",
+      "dynamicProps": [
+        {
+          "type": "title",
+          "text": "Base Credentials"
+        },
+        "baseCredentials.host/string",
+        "baseCredentials.port/number",
+        {
+          "type": "subtitle",
+          "text": "User Credentials"
+        },
+        "baseCredentials.userCredentials.user/string",
+        "baseCredentials.userCredentials.password/password",
+        {
+          "type": "title",
+          "text": "Specific Credentials"
+        },
+        "database/string",
+        "ssl/string"
+      ],
+      "formData": {}
+    }
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.host",
+    "value": "test"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.port"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.userCredentials.user",
+    "value": ""
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.userCredentials.password",
+    "value": "`"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.userCredentials.user",
+    "value": "kkj"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.userCredentials.password",
+    "value": "kjkjk"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.database",
+    "value": "mm"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.ssl",
+    "value": "mm"
   }
 ]
