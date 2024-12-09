@@ -334,5 +334,10 @@
     "event": "setValue",
     "path": "connections[0].formData.ssl",
     "value": "mm"
+  },
+  {
+    "event": "removeConnection",
+    "path": "connections",
+    "connectionId": "1733769323048"
   }
 ]
