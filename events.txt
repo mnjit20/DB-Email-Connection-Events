@@ -339,5 +339,14 @@
     "event": "removeConnection",
     "path": "connections",
     "connectionId": "1733769323048"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.host",
+    "value": "tes2"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.port"
   }
 ]
