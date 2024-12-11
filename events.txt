@@ -353,5 +353,19 @@
     "event": "setValue",
     "path": "connections[0].formData.serviceName",
     "value": "manjeetverma"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.serviceName",
+    "value": "helloworld"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.host",
+    "value": "tes22"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.port"
   }
 ]
