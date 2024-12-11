@@ -397,5 +397,15 @@
     "event": "setValue",
     "path": "connections[0].formData.sid",
     "value": ""
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.sid",
+    "value": ""
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.serviceName",
+    "value": "helloworld4"
   }
 ]
