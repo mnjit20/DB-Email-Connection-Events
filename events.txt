@@ -492,5 +492,15 @@
     "event": "setValue",
     "path": "connections[0].formData.baseCredentials.userCredentials.password",
     "value": "9999911"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.host",
+    "value": "199911111"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.port",
+    "value": 999
   }
 ]
