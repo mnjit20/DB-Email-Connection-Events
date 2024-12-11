@@ -512,5 +512,15 @@
     "event": "setValue",
     "path": "connections[0].formData.baseCredentials.port",
     "value": 999
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.serviceName",
+    "value": "Manjeet verma singh abc"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.sid",
+    "value": "rimjhim"
   }
 ]
