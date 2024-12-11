@@ -367,5 +367,35 @@
   {
     "event": "setValue",
     "path": "connections[0].formData.baseCredentials.port"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.sid",
+    "value": ""
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.serviceName",
+    "value": "helloworld2"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.sid",
+    "value": ""
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.sid",
+    "value": ""
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.serviceName",
+    "value": "helloworld3"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.sid",
+    "value": ""
   }
 ]
