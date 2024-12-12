@@ -537,5 +537,10 @@
     "event": "setValue",
     "path": "connections[0].formData.baseCredentials.host",
     "value": "00989191manjeet"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.port",
+    "value": 999
   }
 ]
