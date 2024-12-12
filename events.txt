@@ -562,5 +562,15 @@
     "event": "setValue",
     "path": "connections[0].formData.baseCredentials.userCredentials.user",
     "value": "111"
+  },
+  {
+    "event": "setId",
+    "path": "connections[0].formData.baseCredentials.host",
+    "error": ""
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.port",
+    "value": 999
   }
 ]
