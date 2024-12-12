@@ -542,5 +542,15 @@
     "event": "setValue",
     "path": "connections[0].formData.baseCredentials.port",
     "value": 999
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.host",
+    "value": "00989191manjeevermat"
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.port",
+    "value": 999
   }
 ]
